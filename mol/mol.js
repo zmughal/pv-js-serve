@@ -18,7 +18,7 @@
 // FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
 // DEALINGS IN THE SOFTWARE.
 
-define(['gl-matrix', 'utils', '../geom', './chain', './bond', './select'], 
+define(['../gl-matrix', '../utils', '../geom', './chain', './bond', './select'], 
        function(glMatrix, utils, geom, chain, bond, select) {
 
 "use strict";

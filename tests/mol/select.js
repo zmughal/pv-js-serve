@@ -1,4 +1,4 @@
-define(['io'], function(io) { 
+define(['./io'], function(io) { 
 
 var SELECT_HETATM='\
 ATOM   3316  C   GLY B 214      24.173   7.911  -3.276  1.00 94.23           C\n\
